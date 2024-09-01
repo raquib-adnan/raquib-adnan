@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
   <img
-    src="https://media.tenor.com/NOYF3f82b_gAAAAe/programmer.png"
+    src="https://media.tenor.com/NOYF3f82b_gAAAAe/programmer.gif"
     alt="CODING"
   />
 </p>
